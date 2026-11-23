@@ -20,7 +20,7 @@
 
 <img align="right" width="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-👋 Hi! I'm **Rafhana**, an aspiring engineer passionate about technology and innovation.
+👋 Hi! I'm **PARADOX**, an aspiring engineer passionate about technology and innovation.
 
 - 🎓 AI & Machine Learning Engineering Student
 - 🤖 Exploring Artificial Intelligence & Machine Learning

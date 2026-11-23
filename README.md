@@ -1,59 +1,94 @@
 <div align="center">
 
-# ✨ HELLO WORLD! I'M PARADOX 👩‍💻
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101820,100:263B50&height=200&section=header&text=RAFHANA&fontSize=60&fontColor=FFFFFF&fontAlignY=40&desc=ENGINEERING%20%7C%20ARTIFICIAL%20INTELLIGENCE%20%7C%20TECHNOLOGY&descSize=13&descAlignY=65" width="100%" />
 
-### `AI & MACHINE LEARNING ENGINEERING STUDENT`
+# Hello, I'm Rafhana.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Aspiring+Software+Engineer;Learning+%7C+Building+%7C+Growing;Turning+Ideas+Into+Innovation" />
+### AI & Machine Learning Engineering Student
 
-</div>
+*Passionate about technology, learning and building meaningful solutions.*
 
----
-
-## 🪄 ABOUT ME
-
-- 🎓 Engineering student passionate about technology.
-- 🤖 Exploring Artificial Intelligence & Machine Learning.
-- 💻 Learning programming one step at a time.
-- 🌱 Currently improving my coding and problem-solving skills.
-- 🚀 Dreaming of becoming a successful software engineer.
-
----
-
-## ⚡ TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,html,css,git,github,vscode" />
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-FFFFFF?style=flat-square&logo=github&logoColor=black)](https://github.com/paradoxsit4-oss)
 
 </div>
 
 ---
 
-## 🌌 MY DEVELOPER MINDSET
+## ABOUT ME
 
-> "Great things are built one line of code at a time."
+I'm an engineering student with an interest in software development and emerging technologies.
 
-| Quality | My Focus |
+- 🎓 Studying Artificial Intelligence and Machine Learning.
+- 💻 Learning programming and software development.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🌱 Improving my problem-solving and technical skills.
+- 🎯 Working towards becoming a Software Engineer.
+
+---
+
+## TECHNICAL SKILLS
+
+**Programming Languages**
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=c,python" />
+
+</div>
+
+**Web Development**
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+</div>
+
+**Tools & Technologies**
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+## CURRENT LEARNING
+
+| Area | Focus |
 |---|---|
-| 🧠 Learning | Every day |
-| 💡 Creativity | New ideas |
-| 🎯 Goal | Software Engineer |
-| 🚀 Passion | Technology |
+| Python | Programming fundamentals |
+| DSA | Problem solving |
+| AI | Artificial Intelligence |
+| ML | Machine Learning |
+| Web | HTML and CSS |
 
 ---
 
-## 🏆 MY GITHUB JOURNEY
+## MY GOALS
+
+- Build real-world projects.
+- Develop strong programming fundamentals.
+- Explore innovative AI solutions.
+- Contribute to open-source development.
+- Grow into a professional software engineer.
+
+---
+
+## DEVELOPER PHILOSOPHY
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=paradoxsit4-oss&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+### THINK. CODE. LEARN. REPEAT.
+
+*"Consistency is the key to turning knowledge into expertise."*
 
 </div>
 
 ---
 
-## 📫 CONNECT WITH ME
+## CONNECT WITH ME
 
 <div align="center">
 
@@ -61,16 +96,10 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
----
+**Thank you for visiting my profile!**
 
-<div align="center">
-
-### 💙 THANK YOU FOR VISITING MY PROFILE!
-
-**Keep Learning. Keep Building. Keep Growing.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:263B50,100:101820&height=100&section=footer" width="100%" />
 
 </div>
